@@ -1,2 +1,1 @@
-# List
-Non-Generic
+#Array List with generic data type
